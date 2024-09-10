@@ -1,2 +1,3 @@
 # Flutter_Project_8
-Snackbar 
+# Snackbar 
+A snackbar,often referred to as a toast in some contexts, is a brief, non-intrusive notification that appears temporarily on the screen to inform users about a process that an app has performed or will perform. Positioned typically at the bottom of the screen, snackbars are designed to provide quick feedback without interrupting the user experience. They automatically disappear after a short duration, making them ideal for conveying non-critical information, such as confirming an action or providing a status update. Unlike alerts or dialogs, snackbars do not require user interaction to dismiss, allowing users to continue their tasks seamlessly.

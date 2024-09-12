@@ -52,7 +52,6 @@ class MyHomePage extends StatelessWidget {
               borderRadius: BorderRadius.circular(25),
             ),
             action: SnackBarAction(label: "Undo",textColor: Colors.grey, onPressed: () {},),
-            //padding: EdgeInsets.all(15),
             backgroundColor: Colors.black,
             content: Center(child: Text("This is an error",style: TextStyle(fontSize:14,fontWeight: FontWeight.w500,color: Colors.grey),)));
         ScaffoldMessenger.of(context).showSnackBar(snackbar);

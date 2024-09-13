@@ -32,8 +32,8 @@ class MyHomePage extends StatelessWidget {
             begin: Alignment.topLeft,
             end: Alignment.bottomRight,
             colors: [
-              Colors.yellowAccent,
-              Colors.red,
+              Colors.black,
+              Colors.grey,
             ],
           )
       ),

@@ -40,9 +40,9 @@ class MyHomePage extends StatelessWidget {
     child: Center(
       child: ElevatedButton(
         style: ButtonStyle(
-          backgroundColor: WidgetStateProperty.all(Colors.yellowAccent),
+          backgroundColor: WidgetStateProperty.all(Colors.black),
           overlayColor: WidgetStateProperty.all(Colors.white70),
-          foregroundColor: WidgetStateProperty.all(Colors.red),
+          foregroundColor: WidgetStateProperty.all(Colors.grey),
          
         ),onPressed: (){
         final snackbar = SnackBar(
